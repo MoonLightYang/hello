@@ -26,7 +26,7 @@ public class TestCtl {
 				}
 			});
 		}
-		return "success";
+		return "success法规发生过";
 	}
 
 	@GetMapping("hashloop")
